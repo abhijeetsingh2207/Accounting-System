@@ -1,1 +1,5 @@
-hello
+* This is a project which is based on the Java Swing Framework developed on Apache Netbeans.
+* This project is lightweighted because it provides the GUI which is simple to understand by the user.
+* It manages the accounting of products on commercial stores to maintain the records and the availability of the products.
+
+
